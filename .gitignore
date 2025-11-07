@@ -1,0 +1,6 @@
+*.pdf
+*.png
+.cache
+.venv
+.claude
+__pycache__
